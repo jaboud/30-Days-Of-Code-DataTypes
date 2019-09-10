@@ -15,6 +15,11 @@ namespace _30_Days_Of_Code_DataTypes
             int i2;
             double d2;
             string s2;
+
+            //Converting using input into a Integer, double and a string
+            i2 = int.Parse(Console.ReadLine());
+            d2 = double.Parse(Console.ReadLine());
+            s2 = Console.ReadLine();
         }
     }
 }
