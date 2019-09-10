@@ -10,6 +10,11 @@ namespace _30_Days_Of_Code_DataTypes
             int i = 4;
             double d = 4.0;
             string s = "HackerRank ";
+
+            //Second varible declaration for an Integer, double and a string
+            int i2;
+            double d2;
+            string s2;
         }
     }
 }
