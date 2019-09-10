@@ -20,6 +20,9 @@ namespace _30_Days_Of_Code_DataTypes
             i2 = int.Parse(Console.ReadLine());
             d2 = double.Parse(Console.ReadLine());
             s2 = Console.ReadLine();
+
+            // Prints the sum in the console output for the integer.
+            Console.WriteLine(String.Format("{0:0}", i + i2));
         }
     }
 }
