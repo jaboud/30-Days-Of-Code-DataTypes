@@ -27,7 +27,7 @@ namespace _30_Days_Of_Code_DataTypes
             // Prints the sum in the console output for the double.
             Console.WriteLine(String.Format("{0:0.0}", d + d2));
 
-            // Prints the sum in the console output for the string.
+            // Prints "Hackrank" and plus what we type in the input line in the console output for the string.
             Console.WriteLine(s + s2);
 
             //To prevent the console from automatically closing upon completion of program
