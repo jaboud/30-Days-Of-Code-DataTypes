@@ -23,6 +23,9 @@ namespace _30_Days_Of_Code_DataTypes
 
             // Prints the sum in the console output for the integer.
             Console.WriteLine(String.Format("{0:0}", i + i2));
+
+            // Prints the sum in the console output for the double.
+            Console.WriteLine(String.Format("{0:0:0}", d + d2));
         }
     }
 }
