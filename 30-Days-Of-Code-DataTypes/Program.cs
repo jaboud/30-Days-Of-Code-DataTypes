@@ -30,6 +30,8 @@ namespace _30_Days_Of_Code_DataTypes
             // Prints the sum in the console output for the string.
             Console.WriteLine(s + s2);
 
+            //To prevent the console from automatically closing upon completion of program
+            Console.Read();
         }
     }
 }
